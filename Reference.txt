@@ -1,0 +1,26 @@
+NATURAL HISTORY MUSEUM WEBSITE - IMAGE REFERENCES
+
+PRIMARY IMAGES (New):
+1. Lever, C. (n.d.) Small slate rock with fossil. iStock. https://media.istockphoto.com/id/1495947890/
+2. Nastasic (n.d.) Minerals and crystalline forms. iStock. https://media.istockphoto.com/id/878377592/
+3. Sarayut (n.d.) Environment Earth Day seedlings. iStock. https://media.istockphoto.com/id/2218463102/
+4. Appledesign (n.d.) Climate change drought to growth. iStock. https://media.istockphoto.com/id/1339138376/
+5. Eskridge, D. (n.d.) Woolly rhino. iStock. https://media.istockphoto.com/id/1133041112/
+6. diegograndi (n.d.) Sloane viperfish. iStock. https://media.istockphoto.com/id/1462711092/
+7. opengeology (2020) Halite crystallizing. Open Geology. https://opengeology.org/Mineralogy/
+
+ADDITIONAL IMAGES (Unsplash - Creative Commons):
+- Hero carousel and collection images from Unsplash.com
+- All Unsplash images used under Creative Commons license
+
+CODE REFERENCES:
+- Bootstrap 5.3.0 Framework (MIT License)
+- Bootstrap Icons (MIT License)
+- Custom CSS and JavaScript (Original work)
+
+FONTS:
+- Segoe UI system font stack
+
+LICENSE:
+All images used under respective Creative Commons or stock photo licenses.
+Educational use for coursework project.
